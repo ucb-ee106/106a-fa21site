@@ -6,3 +6,4 @@ photo: assets/staff_pics/TA/stella.jpg
 ---
 
 Head TA - Admin
+she/her/hers
